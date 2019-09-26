@@ -1,0 +1,22 @@
+﻿[
+  {
+    {
+      "lastName": "Sauermann",
+      "listOfObjects": [
+        "text1",
+        "text2"
+      ],
+      "name": "Krzysztof"
+    },
+
+    {
+      "name": "Jurek",
+      "lastName": "Sauermann",
+      "listOfObjects": [
+        "text1",
+        "text2"
+      ]
+
+    }
+  }
+]
